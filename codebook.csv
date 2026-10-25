@@ -1,0 +1,22 @@
+column,variable,description,values,study1_source,study2_source,final_item,role
+1,STUDY,Study membership,1 = Study 1; 2 = Study 2,Derived study code,Derived study code,,Selection variable
+2,GENDER,Gender as coded in the supplied Study 2 file,1 = Female; 2 = Male; 99 = not provided,Not provided,GENDER,,Grouping variable
+3,MA01,I believe that I can effectively regulate my recreational screen time.,1-5; no item nonresponse in supplied files,MA02,MA01,MA01,Final 13-item analysis
+4,MA02,I am aware of my ability to regulate my recreational screen time.,1-5; no item nonresponse in supplied files,MA04,MA02,MA02,Final 13-item analysis
+5,MA03,I know that I can adopt different strategies to regulate my recreational screen time.,1-5; no item nonresponse in supplied files,MA05,MA03,MA03,Final 13-item analysis
+6,MA04,I am confident that I can draw on my past time management experience to regulate my recreational screen time.,1-5; no item nonresponse in supplied files,MA06,MA04,MA04,Final 13-item analysis
+7,MA05,I know how to effectively regulate my recreational screen time.,1-5; no item nonresponse in supplied files,MA09,MA05,MA05,Final 13-item analysis
+8,MRP01,"Before engaging in recreational screen activities, I usually think about my motivation (e.g., to relax, to pass time).",1-5; no item nonresponse in supplied files,MRP01,MRP01,MR-P01,Final 13-item analysis
+9,MRP02,"Before starting recreational screen activities, I consider how long I will engage in them.",1-5; no item nonresponse in supplied files,MRP02,MRP02,MR-P02,Final 13-item analysis
+10,MRP03,I plan when to start and how to allocate my recreational screen time.,1-5; no item nonresponse in supplied files,MRP03,MRP03,MR-P03,Final 13-item analysis
+11,MRM01,"When I feel that my recreational screen time is too long, I stop immediately.",1-5; no item nonresponse in supplied files,MRM02,MRM02,MR-M01,Final 13-item analysis
+12,MRM02,"When I feel that my recreational screen time is too long, I try to make adjustments.",1-5; no item nonresponse in supplied files,MRM03,MRM03,MR-M02,Final 13-item analysis
+13,MRE01,I review whether my recreational screen time contributes to my physical and mental well-being.,1-5; no item nonresponse in supplied files,MRE01,MRE01,MR-E01,Final 13-item analysis
+14,MRE02,I reflect on how well I regulate my recreational screen time.,1-5; no item nonresponse in supplied files,MRE02,MRE02,MR-E02,Final 13-item analysis
+15,MRE03,I explore whether there are better ways to regulate my recreational screen time.,1-5; no item nonresponse in supplied files,MRE03,MRE03,MR-E03,Final 13-item analysis
+16,XMA01,Earlier candidate item retained for development traceability,1-5; 99 = structurally unavailable,MA01,Not provided,Not retained,Excluded from all supplied final models
+17,XMA03,Earlier candidate item retained for development traceability,1-5; 99 = structurally unavailable,MA03,Not provided,Not retained,Excluded from all supplied final models
+18,XMA07,Earlier candidate item retained for development traceability,1-5; 99 = structurally unavailable,MA07,Not provided,Not retained,Excluded from all supplied final models
+19,XMA08,Earlier candidate item retained for development traceability,1-5; 99 = structurally unavailable,MA08,Not provided,Not retained,Excluded from all supplied final models
+20,XMA10,Earlier candidate item retained for development traceability,1-5; 99 = structurally unavailable,MA10,Not provided,Not retained,Excluded from all supplied final models
+21,XMRM01,Earlier candidate item retained for development traceability,1-5; 99 = structurally unavailable,MRM01,MRM01,Not retained,Excluded from all supplied final models
